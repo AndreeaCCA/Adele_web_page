@@ -1,0 +1,17 @@
+h3{
+padding: 30px;
+}
+
+
+#jumbotron{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url("img/header4.webp");
+    background-size: cover;
+    height: 600px;
+/*
+}
+@media (min-width: 297px) and (max-width: 339px){
+}
